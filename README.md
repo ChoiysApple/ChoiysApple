@@ -3,6 +3,7 @@
 
 [<img src="https://user-images.githubusercontent.com/43776784/115346794-9985c780-a1eb-11eb-9639-06257a10aa3b.png" width="40%">](https://testflight.apple.com/join/HJakiRWd)
 
+### I'm collectiong images for my popcat app! Plz [join](https://www.notion.so/choiysapple/My-Little-Popcat-273824791e38402788f8be4e97c8ebf7)
 
 <!--
 **ChoiysApple/ChoiysApple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
