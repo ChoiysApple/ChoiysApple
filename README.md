@@ -13,7 +13,7 @@ Hyundai Motor Group (Hyundai Autoever 2023.01 ~ now)
 
 ### Community
 - **Yapp** - 20th, 24th Member as a iOS Developer / 25th iOS Team Management & Mentor
-- **WWDC Scholars Korea**
+- **[WWDC Scholars Korea](https://github.com/wwdc-kr)** - Organizer
 
 ### Education
 B.S., Gachon University, Dept. of Software (2017.03 ~ 2023.03)
