@@ -1,5 +1,5 @@
 ## Daegun Choi
- iOS Developer & WWDC22 Student Challenge Winner
+ iOS Developer, WWDC22 Student Challenge Winner
 
 [Email](mailto:choiysapple@gmail.com) | [LinkedIn](https://www.linkedin.com/in/daegun-choi-231b57227/) | [Medium](https://medium.com/@choiysapple) | [X (Twitter)](https://x.com/ChoiysApple)
 
